@@ -1,2 +1,9 @@
-# Portafolio-Web-Developer
-Portafolio personal de tecnologías manejadas y proyectos realizados.
+# Portafolio
+Tecnologias Manejadas:
+-Html, Css , Bootstrap, Git, Github.
+
+Proyectos:
+-Libro Programing.
+-Iguana Page.
+-Cuppon Page.
+
